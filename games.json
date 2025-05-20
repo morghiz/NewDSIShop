@@ -2,7 +2,6 @@
     {
         "name": "Super Mario 64 DS",
         "id": "sm64ds",
-        "format": "nds",
         "region": "USA"
     }
 ]
