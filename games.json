@@ -3,7 +3,6 @@
         "name": "Super Mario 64 DS",
         "id": "sm64ds",
         "region": "US",
-        "type": "game",
         "format": "NDS"
     }
 ]
